@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a>
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Ahmed+Badawi;WebGIS+%26+Full+Stack+Developer;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Ahmed+Badawi;WebGIS+%26+Full+Stack+Developer;Nice+to+meet+you!&center=true&size=50">
   </a>
 </h1>
 
