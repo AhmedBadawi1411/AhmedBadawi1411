@@ -28,36 +28,31 @@
 <p align="center">
   <!-- Languages -->
   <code><img title="JavaScript" height="25" src="images/icons/js_5968292.png"></code>
-  <code><img title="TypeScript" height="25" src="images/ts.svg"></code>
-  <code><img title="Node.js" height="25" src="images/nodejs.svg"></code>
-  <code><img title="Express" height="25" src="images/express.png"></code>
-  <code><img title="Angular" height="25" src="images/angular.svg"></code>
-  <code><img title="Tailwind CSS" height="25" src="images/tailwind.svg"></code>
+  <code><img title="TypeScript" height="25" src="images/icons/typescript_5968381.png"></code>
+  <code><img title="Node.js" height="25" src="images/icons/programing_15484303.png"></code>
+  <code><img title="Express" height="25" src="images/icons/Express.png"></code>
+  <code><img title="Angular" height="25" src="images/icons/Angular.png"></code>
+  <code><img title="Tailwind CSS" height="25" src="images/icons/Tailwind CSS.png"></code>
 
   <!-- Backend & Databases -->
-  <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
-  <code><img title="PostGIS" height="25" src="images/postgis.svg"></code>
-  <code><img title="SQL Server" height="25" src="images/sqlserver.svg"></code>
-  <code><img title="MongoDB" height="25" src="images/mongodb.svg"></code>
-  <code><img title="Mongoose" height="25" src="images/mongoose.png"></code>
+  <code><img title="PostgreSQL" height="25" src="images/icons/PostgresSQL.png"></code>
+  <code><img title="PostGIS" height="25" src="images/icons/postgis.png"></code>
+  <code><img title="SQL Server" height="25" src="images/icons/Microsoft SQL Server.png"></code>
+  <code><img title="MongoDB" height="25" src="images/icons/MongoDB.png"></code>
 
   <!-- GIS -->
-  <code><img title="CesiumJS" height="25" src="images/cesium.png"></code>
-  <code><img title="ArcGIS API" height="25" src="images/esri.png"></code>
-  <code><img title="Leaflet" height="25" src="images/leaflet.png"></code>
-  <code><img title="MapLibre / Mapbox" height="25" src="images/mapbox.svg"></code>
-  <code><img title="Turf.js" height="25" src="images/turf.png"></code>
-  <code><img title="Google Earth Engine" height="25" src="images/gee.png"></code>
-  <code><img title="ArcPy" height="25" src="images/python-original.svg"></code>
+  <code><img title="CesiumJS" height="25" src="images/icons/cesium.jpg"></code>
+  <code><img title="Leaflet" height="25" src="images/icons/leaflet.png"></code>
+  <code><img title="MapTilre" height="25" src="images/icons/maptiler.svg"></code>
+  <code><img title="Turf.js" height="25" src="images/icons/turf.png"></code>
+  <code><img title="Google Earth Engine" height="25" src="images/icons/GEE.png"></code>
 
   <!-- 3D & Visualization -->
-  <code><img title="A-Frame" height="25" src="images/aframe.png"></code>
-  <code><img title="ECharts" height="25" src="images/echarts.png"></code>
+  <code><img title="A-Frame" height="25" src="images/icons/A-Frame.png"></code>
+  <code><img title="ECharts" height="25" src="images/icons/echarts.png"></code>
+  
+  <code><img title="ECharts" height="25" src="images/icons/Apache Kafka.png"></code>
 
-  <!-- Tools -->
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title="VS Code" height="25" src="images/vscode.png"></code>
 </p>
 
 <hr>
