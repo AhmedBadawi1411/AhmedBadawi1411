@@ -48,7 +48,6 @@
   <code><img title="A-Frame" height="25" src="images/icons/A-Frame.png"></code>
   <code><img title="ECharts" height="25" src="images/icons/echarts.png"></code>
   <code><img title="ECharts" height="25" src="images/icons/Apache Kafka.png"></code>
-
 </p>
 
 <hr>
