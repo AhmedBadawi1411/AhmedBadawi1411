@@ -27,7 +27,7 @@
 
 <p align="center">
   <!-- Languages -->
-  <code><img title="JavaScript" height="25" src="images/javascript.svg"></code>
+  <code><img title="JavaScript" height="25" src="images/icons/js_5968292.png"></code>
   <code><img title="TypeScript" height="25" src="images/ts.svg"></code>
   <code><img title="Node.js" height="25" src="images/nodejs.svg"></code>
   <code><img title="Express" height="25" src="images/express.png"></code>
