@@ -22,7 +22,7 @@
 
 <hr>
 
-<h2 align="center">🔥 Skills & Tools (Icons Only) 🔥</h2>
+<h2 align="center">🔥 Skills & Tools 🔥</h2>
 <br>
 
 <p align="center">
@@ -62,31 +62,11 @@
 
 <br>
 
-<p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedbadawi&layout=compact&theme=react&hide_border=true" />
-</p>
-
 <br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedbadawi&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 <hr>
 
-<h2 align="center">📦 Featured Repositories 📦</h2>
-<br>
-
-<div width="100%" align="center">
-  <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedbadawi&repo=repo1&theme=react&border_color=61dafb&border_radius=10">
-  <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedbadawi&repo=repo2&theme=react&border_color=61dafb&border_radius=10">
-</div>
-
-<br/><br/><br/><br/><br/><br/>
-
-<div width="100%" align="center">
-  <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedbadawi&repo=repo3&theme=react&border_color=61dafb&border_radius=10">
-  <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedbadawi&repo=repo4&theme=react&border_color=61dafb&border_radius=10">
-</div>
-
-<br/><br/><br/><br/><br/><br/>
 
 <h4 align="center">🔎 More Coming Soon… 🔍</h4>
