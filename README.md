@@ -58,7 +58,6 @@
 
 <p align="center">
   <img width="390" src="https://streak-stats.demolab.com/?user=ahmedbadawi&theme=react&border=61dafb&hide_border=true" />
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=ahmedbadawi&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
 </p>
 
 <br>
