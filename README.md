@@ -32,25 +32,21 @@
   <code><img title="Node.js" height="25" src="images/icons/programing_15484303.png"></code>
   <code><img title="Express" height="25" src="images/icons/Express.png"></code>
   <code><img title="Angular" height="25" src="images/icons/Angular.png"></code>
+  <code><img title="Angular" height="25" src="images/icons/java-original.svg"></code>
+  <code><img title="Angular" height="25" src="images/icons/npm.svg"></code>
+  <code><img title="Angular" height="25" src="images/icons/python-original.svg"></code>
   <code><img title="Tailwind CSS" height="25" src="images/icons/Tailwind CSS.png"></code>
-
-  <!-- Backend & Databases -->
   <code><img title="PostgreSQL" height="25" src="images/icons/PostgresSQL.png"></code>
   <code><img title="PostGIS" height="25" src="images/icons/postgis.png"></code>
   <code><img title="SQL Server" height="25" src="images/icons/Microsoft SQL Server.png"></code>
   <code><img title="MongoDB" height="25" src="images/icons/MongoDB.png"></code>
-
-  <!-- GIS -->
   <code><img title="CesiumJS" height="25" src="images/icons/cesium.jpg"></code>
   <code><img title="Leaflet" height="25" src="images/icons/leaflet.png"></code>
   <code><img title="MapTilre" height="25" src="images/icons/maptiler.svg"></code>
   <code><img title="Turf.js" height="25" src="images/icons/turf.png"></code>
   <code><img title="Google Earth Engine" height="25" src="images/icons/GEE.png"></code>
-
-  <!-- 3D & Visualization -->
   <code><img title="A-Frame" height="25" src="images/icons/A-Frame.png"></code>
   <code><img title="ECharts" height="25" src="images/icons/echarts.png"></code>
-  
   <code><img title="ECharts" height="25" src="images/icons/Apache Kafka.png"></code>
 
 </p>
